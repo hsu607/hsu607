@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm Hyunsu Yu.
-- I am majoring in statistics and double majoring in software.
+- I'm majoring in statistics and double majoring in software.
 
 ## Languages 💪 
 
